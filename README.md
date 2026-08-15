@@ -1,17 +1,4 @@
-Andrew Impellitteri. New Haven, CT.
-
-I clean awnings and write the software that runs the shop.
-
-The main thing is private. Work-order and customer system for a 25-year-old
-awning cleaning business — Postgres, ~116k order line items across ~27k
-customers, 2001 to now. Schema migrations against live production without
-dropping service, 800+ tests behind a coverage gate, recovery drilled to ~22 min
-RTO / ~5 min RPO. It has to survive a season that puts 86% of annual order
-volume into five months.
-
-Also built the analytics layer the business is read through, which is mostly
-useful for noticing when a change in the numbers is really a change in how
-someone recorded them.
+Andrew Impellitteri
 
 Public repos are the smaller stuff:
 
@@ -23,8 +10,7 @@ Public repos are the smaller stuff:
 - `mealie_auto_tagger` — tagging a self-hosted recipe box with an LLM
 - `world-cuisine-connections` — similarity graph over world cuisines from ingredient overlap
 
-Economics at Pitt, after three years of chemical engineering — thermo, kinetics,
-diffeq. Older finance and time-series work is on a dead account,
+ Older finance and time-series work is on a dead account,
 [@andrew-impell](https://github.com/andrew-impell).
 
 Python, Postgres, Flask, AWS, NixOS.
