@@ -15,6 +15,7 @@ someone recorded them.
 
 Public repos are the smaller stuff:
 
+- `manifold_llm` — local 7B forecasting prediction markets, scored by MSE against the market itself
 - `llm_poli_compass` — political compass and 8values tests run against local models via llama.cpp
 - `creativity_bench` — Gwern's creativity benchmark, implemented and run
 - `floor-cleaner-agent` — PPO agent learning to aim a power washer at a dirt field
